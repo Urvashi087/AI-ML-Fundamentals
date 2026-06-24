@@ -1,0 +1,4 @@
+https://www.ibm.com/topics/artificial-intelligence
+https://www.ibm.com/topics/machine-learning
+https://www.microsoft.com/ai
+https://www.coursera.org/articles/what-is-machine-learning
